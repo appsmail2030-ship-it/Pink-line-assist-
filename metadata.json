@@ -1,0 +1,6 @@
+{
+  "name": "Pink Line Assist",
+  "description": "Special assistance management system for Delhi Metro Pink Line passengers including Divyangjan, wheelchair users, and visually impaired travelers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
